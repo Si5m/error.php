@@ -3,7 +3,7 @@
  * error.php
  *
  * @author Si5m <si5m@toaos.tk>
- * @copyright 2013, TOAOS
+ * @copyright 2013, http://www.toaos.tk
  * @package error.php
  */
 
