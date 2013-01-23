@@ -22,7 +22,7 @@ ErrorDocument <id> /path/to/error.php?id=<id>
 
 ## Development
 
-The next thing that I'm working on is to make it so you don't have to ad the id= part.
+The next thing that I'm working on is to make it so you don't have to add the id= part.
 
 ## Copyright and License
 
