@@ -2,7 +2,7 @@
 /**
  * error.php
  *
- * @author Si5m <si5m@toaos.tk>
+ * @author Simon van Daalen <si5m@toaos.tk>
  * @copyright 2013, http://www.toaos.tk
  * @package error.php
  */
