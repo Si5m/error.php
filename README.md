@@ -28,7 +28,7 @@ The next thing that I'm working on is to make it so you don't have to add the id
 
 The MIT License (MIT)
 
-Copyright © 2013 Simon van Daalen, http://www.toaos.tk
+Copyright © 2013 Simon van Daalen, http://si5m.me
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
