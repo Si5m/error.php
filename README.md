@@ -1,10 +1,10 @@
 # error.php
 
-error.php is a simple and easy way to create a custom error page for your website
+error.php is a simple and easy way to create custom error pages for your website
 
 ## Installation and Usage
 
-Just add the following lines to your htaccess files and your good to go.
+Add the following lines to your htaccess files and your good to go
 
 ```
 ErrorDocument 401 /path/to/error.php?id=401
@@ -14,7 +14,7 @@ ErrorDocument 408 /path/to/error.php?id=408
 ErrorDocument 500 /path/to/error.php?id=500
 ErrorDocument 504 /path/to/error.php?id=504
 ```
-If you don't see the error code that you want to use just add a new entry to error.php and add the line to your htaccess file
+If you don't see the error code that you want to use, add a new entry to error.php and add the line to your htaccess file
 
 ```
 ErrorDocument <id> /path/to/error.php?id=<id>
@@ -22,13 +22,17 @@ ErrorDocument <id> /path/to/error.php?id=<id>
 
 ## Development
 
-The next thing that I'm working on is to make it so you don't have to add the id= part.
+Having it so you don't have to add the id to the htaccess file
+
+```
+ErrorDocument <id> /path/to/error.php
+```
 
 ## Copyright and License
 
 The MIT License (MIT)
 
-Copyright © 2013 Simon van Daalen, http://si5m.me
+Copyright © 2013 Simon van Daalen, https://si5m.me
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
